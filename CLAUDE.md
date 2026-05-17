@@ -2,10 +2,11 @@
 
 本 repo 為 UndergroundRemake 產品的 **Module Spec git**，module_id 為 `no1_concept`，承載概念階段遊戲的 module 規格。
 
-## 三層 git 配對
+## 四層 git 配對
 
 - **頂層 Product git：** `../../`
-- **本 Module Spec git：** 即本 repo，位於 Product git 的 `no3_product_specs/no1_concept/`
+- **對側 Module Design git：** 尚無，本產品屬概念階段
+- **本 Module Spec git：** 即本 repo，位於 Product git 的 `no4_product_specs/no1_concept/`
 - **對側 Module Impl git：** 尚無，本 module 屬概念階段，auditor 回 `CONCEPT_ONLY`
 
 完整配對表由 `decision_framework_router` skill 的 `products_registry.md` 維護。
